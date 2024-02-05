@@ -1,0 +1,20 @@
+body {
+    font-size: 15pt;
+    background: white;
+    color:black;
+}
+h1{text-align: center;
+  color: red;
+}
+div{text-align: center;}
+.urls{color:grey;
+border:2px solid lightblue;
+  
+}
+.search{background:red;
+  color:darkred;
+}
+.search:hover{color:white;background:green;}
+.night-day{background:white;color: black;}
+.night-day:hover{color:whitesmoke;background: black;}
+footer{color:cyan;text-align: center;max-height: 160px;}
